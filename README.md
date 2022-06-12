@@ -11,7 +11,8 @@
 `C#`
 `Python`
 `Java`
-`C++`
+`CSS`
+`JavaScript`
 `SQL`
 
 # 🧾 İnfo
